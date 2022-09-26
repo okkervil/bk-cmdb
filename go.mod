@@ -1,4 +1,4 @@
-module github.com/Tencent/bk-cmdb
+module configcenter
 
 go 1.16
 
