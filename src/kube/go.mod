@@ -1,4 +1,4 @@
-module github.com/Tencent/bk-cmdb/kube
+module github.com/Tencent/bk-cmdb/src/kube
 
 go 1.16
 
